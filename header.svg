@@ -20,9 +20,4 @@
   <rect x="48" y="128" width="120" height="4" rx="2" fill="url(#line)"/>
   <text x="48" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#98a3b8">Integrations, backends and AI with Claude.</text>
   <text x="48" y="194" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#98a3b8">The model writes, plain code checks, a person decides.</text>
-  <g font-family="Consolas, Menlo, monospace" font-size="15" fill="#6ee7b7" opacity="0.85">
-    <text x="640" y="80">const check = (text) =&gt;</text>
-    <text x="660" y="104">fits(text) &amp;&amp;</text>
-    <text x="660" y="128">!invented(text);</text>
-  </g>
 </svg>
