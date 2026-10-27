@@ -1,34 +1,29 @@
-<div align="center">
+### Hi, I'm Palina 👋
 
-# Palina Boczkowska
+I'm a developer in Stockholm. Most of what I build connects one system to another, and lately a lot of it has Claude in the middle. My rule: the model writes, plain code checks, and a person decides.
 
-Developer in Stockholm. I build integrations, backends and AI features with Claude.<br>
-I like it best when plain code checks what the model wrote before anyone uses it.
+- 🔨 Right now: sign-in and cost limits for [creative-variant-studio](https://github.com/palinaboczkowska/creative-variant-studio)
+- 💼 Before: 3.5 years of HubSpot integrations at BeInCrypto, then an internship at Scaly (Freshworks partner) where three of my apps became products
+- 🌐 [Portfolio](https://palina-boczkowska.netlify.app) · [LinkedIn](https://www.linkedin.com/in/palina-boczkowska-825445262)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-5b5bd6?style=for-the-badge)](https://palina-boczkowska.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palina-boczkowska-825445262)
+---
 
-<br>
+**AI with guardrails**
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,nodejs,nextjs,react,html,css,py&perline=10" alt="Languages and frameworks" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=azure,gcp,postgres,supabase,sqlite,githubactions,git&perline=10" alt="Cloud, data and tooling" />
+- [creative-variant-studio](https://github.com/palinaboczkowska/creative-variant-studio): Claude writes ad copy per product, language and banner size. Code checks length and invented numbers before anyone can approve. Next.js on Cloud Run.
+- [discount-code-finder](https://github.com/palinaboczkowska/discount-code-finder): finds real discount codes with live web search and verifies each one against its source page.
+- [agentlens](https://github.com/palinaboczkowska/agentlens): sorts out why a Claude agent run failed. Work in progress.
 
-</div>
+**Integrations**
 
-## Projects
+- [github-asana-sync](https://github.com/palinaboczkowska/github-asana-sync): GitHub issues to Asana tasks on Azure Functions, Service Bus and Key Vault, deployed with OIDC.
+- [hubspot-asana-handoff](https://github.com/palinaboczkowska/hubspot-asana-handoff): routes HubSpot leads to the right salesperson and hands won deals to Asana.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [creative-variant-studio](https://github.com/palinaboczkowska/creative-variant-studio) | Claude writes ad copy for every product, language and banner size. Plain code checks length and invented numbers, and a person approves. Sign-in, per-user cost limits, live on Cloud Run. | Next.js, TypeScript, Claude, Cloud Run, Firestore |
-| [github-asana-sync](https://github.com/palinaboczkowska/github-asana-sync) | Turns GitHub issues and pull requests into Asana tasks. Signed webhooks, a queue, and deploys from GitHub Actions with OIDC. | C#, .NET 8, Azure Functions, Service Bus, Key Vault, Bicep |
-| [hubspot-asana-handoff](https://github.com/palinaboczkowska/hubspot-asana-handoff) | Routes new HubSpot leads to the right salesperson and hands won deals over to production in Asana. | TypeScript, Node.js, webhooks, Cloud Run |
-| [discount-code-finder](https://github.com/palinaboczkowska/discount-code-finder) | Finds real discount codes with live web search. Every code is checked against the page it came from, so nothing invented gets shown. | TypeScript, Express, Claude web search |
-| [agentlens](https://github.com/palinaboczkowska/agentlens) | Runs Claude agents and sorts out why a run went wrong: bad retrieval, bad reasoning, wrong tool call or hallucination. Work in progress. | TypeScript, Anthropic SDK, RAG |
-| [job-application-tracker](https://github.com/palinaboczkowska/job-application-tracker) | Tracks job applications. Status can only move forward, and invalid changes get a 409. | ASP.NET Core, EF Core, Blazor WebAssembly |
-| [domain-health-check](https://github.com/palinaboczkowska/domain-health-check) | Type in a domain and get registration, TLS, DNS and HTTP security in one view. No API keys. | TypeScript, Node.js |
-| [vendor-status-dashboard](https://github.com/palinaboczkowska/vendor-status-dashboard) | One dashboard for the status pages of GitHub, Cloudflare, OpenAI, Anthropic and Slack. | TypeScript |
+**Small tools and .NET**
 
-## Before this
+- [job-application-tracker](https://github.com/palinaboczkowska/job-application-tracker): ASP.NET Core, EF Core and Blazor, with a status rule that only moves forward.
+- [domain-health-check](https://github.com/palinaboczkowska/domain-health-check) and [vendor-status-dashboard](https://github.com/palinaboczkowska/vendor-status-dashboard): quick checks with no API keys.
 
-Three and a half years building HubSpot integrations at BeInCrypto, and an internship at Scaly (a Freshworks partner) where I built around ten apps for Freshdesk and Freshservice. Three of them are now products Scaly sells.
+---
+
+`C#` `.NET` `TypeScript` `Next.js` `React` `Node.js` `Python` `SQL` `Azure` `Google Cloud` `PostgreSQL` `GitHub Actions` `Claude`
