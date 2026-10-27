@@ -3,7 +3,6 @@
 <p>
   <a href="https://palina-boczkowska.netlify.app"><img src="https://img.shields.io/badge/portfolio-9a8cff?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/palina-boczkowska-825445262"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/open_to_new_roles-6ee7b7?style=flat-square" alt="Open to new roles" />
 </p>
 
 3.5 years of HubSpot integrations at BeInCrypto, then an internship at Scaly (Freshworks partner) where three of my apps became products. These days I mostly build with Claude Code.
@@ -55,3 +54,5 @@ Finds real discount codes with live web search and checks each one against the p
 - [vendor-status-dashboard](https://github.com/palinaboczkowska/vendor-status-dashboard): one view of the status pages of GitHub, Cloudflare, OpenAI, Anthropic and Slack.
 
 </details>
+
+<img src="footer.svg" alt="" width="100%" />
