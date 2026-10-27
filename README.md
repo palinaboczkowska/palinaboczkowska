@@ -6,9 +6,10 @@ Developer in Stockholm. Integrations, backends and AI with Claude.
 
 <img src="footer.svg" alt="" width="100%" height="3" />
 
-<p>
-  <a href="https://palina-boczkowska.netlify.app"><img src="https://img.shields.io/badge/portfolio-9a8cff?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/palina-boczkowska-825445262"><img src="https://img.shields.io/badge/linkedin-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<p align="center">
+  <a href="https://palina-boczkowska.netlify.app"><img src="https://img.shields.io/badge/Portfolio-9a8cff?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" height="36" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/palina-boczkowska-825445262"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="36" /></a>
 </p>
 
 3.5 years of HubSpot integrations at BeInCrypto, then an internship at Scaly (Freshworks partner) where three of my apps became products. These days I mostly build with Claude Code.
