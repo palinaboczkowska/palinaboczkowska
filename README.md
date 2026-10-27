@@ -1,4 +1,4 @@
-<img src="hi.svg" alt="Hi, I'm Palina" height="67" />
+<img src="greeting.svg" alt="Hi, I'm Palina" height="67" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=700&duration=2500&color=9A8CFF&vCenter=true&width=520&height=28&lines=The+model+writes.;Plain+code+checks.;A+person+decides." alt="The model writes. Plain code checks. A person decides." />
 
