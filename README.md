@@ -1,9 +1,10 @@
-### Hi, I'm Palina
+<h1>Palina Boczkowska</h1>
 
-Developer in Stockholm. Integrations, backends and AI with Claude.<br>
-The model writes, plain code checks, a person decides.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1800&color=9A8CFF&vCenter=true&width=520&height=28&lines=The+model+writes.;Plain+code+checks.;A+person+decides." alt="The model writes. Plain code checks. A person decides." />
 
-<img src="footer.svg" alt="" width="100%" />
+Developer in Stockholm. Integrations, backends and AI with Claude.
+
+<img src="footer.svg" alt="" width="100%" height="3" />
 
 <p>
   <a href="https://palina-boczkowska.netlify.app"><img src="https://img.shields.io/badge/portfolio-9a8cff?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
@@ -60,4 +61,4 @@ Finds real discount codes with live web search and checks each one against the p
 
 </details>
 
-<img src="footer.svg" alt="" width="100%" />
+<img src="footer.svg" alt="" width="100%" height="3" />
