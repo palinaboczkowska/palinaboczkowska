@@ -1,4 +1,9 @@
-<img src="header.svg" alt="Palina Boczkowska, developer in Stockholm" width="100%" />
+### Hi, I'm Palina
+
+Developer in Stockholm. Integrations, backends and AI with Claude.<br>
+The model writes, plain code checks, a person decides.
+
+<img src="footer.svg" alt="" width="100%" />
 
 <p>
   <a href="https://palina-boczkowska.netlify.app"><img src="https://img.shields.io/badge/portfolio-9a8cff?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
